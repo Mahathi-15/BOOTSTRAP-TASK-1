@@ -1,0 +1,12 @@
+.container {
+    margin-top: 20px;
+    border: 1px solid pink;
+}
+
+.row {
+    border: 2px solid lightgreen;
+}
+
+.border1 {
+    border-right: 1px solid pink;
+}
